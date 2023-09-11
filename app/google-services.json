@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "508617136269",
+    "project_id": "chatapp-b61fb",
+    "storage_bucket": "chatapp-b61fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508617136269:android:ee6b545458ab08c5ce6ac4",
+        "android_client_info": {
+          "package_name": "ph.edu.uic.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508617136269-rllkc6j7mm006lpcovq0lln4nvc4hg3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkFnjVOlVlshgNnxA_9IlRc0mywK6wiJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508617136269-rllkc6j7mm006lpcovq0lln4nvc4hg3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
